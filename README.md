@@ -46,10 +46,17 @@ To customize the gesture detection process, follow these steps:
 
 ## Requirements
 
+To install the required Python dependencies, navigate to the directory containing your `requirements.txt` file and run the following command in your terminal:
+
+```bash
+pip install -r requirements.txt
+```
 - Python 3.x
 - OpenCV (cv2)
 - MediaPipe
 - NumPy
+
+
 
 ## Installation
 

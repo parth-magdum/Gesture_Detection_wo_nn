@@ -56,4 +56,4 @@ To customize the gesture detection process, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/gesture-detection.git
+https://github.com/parth-magdum/Gesture_Detection_wo_nn.git
